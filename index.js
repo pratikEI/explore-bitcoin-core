@@ -10,9 +10,9 @@ const client = new Client(
     // }, 
     { network: "regtest" , 
      port: "5000" ,
-     host: "18.219.17.189", 
-     password: "somepass",
-     username: "someuser"
+     host: "xxxxx", 
+     password: "xxxxxx",
+     username: "xxxxxx"
     // , 
     // { headers: true }
     }
