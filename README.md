@@ -1,5 +1,7 @@
 # explore-bitcoin-core
-explore bitcoin-core lib for simple methods  
+https://github.com/ruimarinho/bitcoin-core </b>
+</b> Methods: https://github.com/ruimarinho/bitcoin-core/blob/master/src/methods.js </b>
+</b> explore bitcoin-core lib for simple methods  
 
 getBalance(accountAddress);</br>
 getWalletInfo();</br>
